@@ -11,6 +11,7 @@
 #include "ble_ancs.h"
 
 #define BLE_ANCS_TAG  "BLE_ANCS"
+#define EXAMPLE_DEVICE_NAME "BLE_ANCS_018"
 
 /*
 | EventID(1 Byte) | EventFlags(1 Byte) | CategoryID(1 Byte) | CategoryCount(1 Byte) | NotificationUID(4 Bytes) |
