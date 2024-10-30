@@ -33,15 +33,18 @@ ble ancs Example เป็นบริการที่อนุญาตให
 
 9. เปิด Bluetooth บนอุปกรณ์ แล้วเชื่อมต่อบลูทูธกับบอร์ด ESP32
 
+![image](https://github.com/user-attachments/assets/d36722e7-a78c-46ba-8054-c07f09c7f1af)
+
 
 ## ผลลัพท์
 
 - Serial Moniter จะดักจับและแสดงการแจ้งเตือนจากโทรศัพท์
 
+![image](https://github.com/user-attachments/assets/244edd27-9710-4772-b8b6-252a148a9a80)
 
 ## การแก้ไข
 
-10. เลือกไฟล์ ble_ancs.c
+10. เลือกไฟล์ ble_ancs_demo.c
 
 ![image](https://github.com/user-attachments/assets/43932b93-d58a-4cc0-94ad-4208f57b4a71)
 
@@ -56,4 +59,18 @@ ble ancs Example เป็นบริการที่อนุญาตให
 
 ## ผลลัพท์การแก้ไข
 
+![image](https://github.com/user-attachments/assets/d3dc4766-ad0f-4a9d-994c-36b4c9502fe3)
+
+
+![image](https://github.com/user-attachments/assets/36cf4a58-75da-41da-9dcd-1c047d2b6331)
+
+
+![image](https://github.com/user-attachments/assets/f2214a21-0d2d-4b1f-bfb3-bdfb0e47f537)
+
+
+![image](https://github.com/user-attachments/assets/1179cbaf-f6b4-41ba-81b8-e59341c45efb)
+
+## สรุปผลการทดลอง
+
+- การทดลอง BLE ANCS (Apple Notification Center Service) Example บน ESP32 เป็นการทดลองการใช้ Bluetooth Low Energy ในการรับข้อมูลการแจ้งเตือนจากอุปกรณ์ iOS ผ่าน Apple Notification Center Service 
 
